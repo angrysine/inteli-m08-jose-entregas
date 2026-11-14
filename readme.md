@@ -1,3 +1,31 @@
+# José Entregas
+
+> Portfólio de [Alberto da Rocha Miranda](https://github.com/angrysine) · Inteli · Módulo 8 · 2023
+
+## O que foi desenvolvido
+
+Protótipo de robô autônomo para orientar usuários em um almoxarifado, recebendo solicitações por texto ou áudio por meio de um chatbot.
+
+**Parceiro / contexto:** Ambev.
+
+## Tecnologias e conceitos
+
+ROS 2 · Python · LLM · Voz e texto.
+
+## Participação e créditos
+
+Participei deste projeto como integrante da equipe no Inteli — Instituto de Tecnologia e Liderança. A solução é um trabalho coletivo; este fork organiza sua apresentação no meu portfólio e preserva os autores, créditos, licenças e materiais originais.
+
+[Repositório de origem](https://github.com/InteliProjects/2023M8T2-Inteli-grupo1) · [Portfólio](https://angrysine.github.io/)
+
+## Documentação e execução
+
+As instruções técnicas e os materiais da equipe foram preservados abaixo e nas pastas do repositório. Esta atualização organiza a apresentação do projeto acadêmico e não representa uma nova validação de execução.
+
+---
+
+## Documentação original da equipe
+
 # Inteli - Instituto de Tecnologia e Liderança 
 
 <p align="center">
